@@ -18,14 +18,14 @@ Ingresar código de moneda local, ingresar código de moneda a convertir, ingres
 Ingrese el codigo de la moneda local: 
 ********************************************************************************************************
 NUMERO - CODIGO - NOMBRE
-1 - AED - UAE Dirham
-2 - AFN - Afghan Afghani
-3 - ALL - Albanian Lek
-4 - AMD - Armenian Dram
-5 - ANG - Netherlands Antillian Guilder
-6 - AOA - Angolan Kwanza
-7 - ARS - Argentine Peso
-8 - AUD - Australian Dollar
+1. AED - UAE Dirham
+2. AFN - Afghan Afghani
+3. ALL - Albanian Lek
+4. AMD - Armenian Dram
+5. ANG - Netherlands Antillian Guilder
+6. AOA - Angolan Kwanza
+7. ARS - Argentine Peso
+8. AUD - Australian Dollar
 ...
 
 ********************************************************************************************************
