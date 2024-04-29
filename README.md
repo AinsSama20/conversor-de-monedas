@@ -14,9 +14,9 @@ Ingresar código de moneda local, ingresar código de moneda a convertir, ingres
 
 ## Ejemplo de Uso
 
-********************************************************************************************************
+
 Ingrese el codigo de la moneda local: 
-********************************************************************************************************
+
 NUMERO - CODIGO - NOMBRE
 1. AED - UAE Dirham
 2. AFN - Afghan Afghani
@@ -28,16 +28,18 @@ NUMERO - CODIGO - NOMBRE
 8. AUD - Australian Dollar
 ...
 
-********************************************************************************************************
-Código de moneda local: ZWL
-********************************************************************************************************
-Código de moneda a convertir: PEN
-********************************************************************************************************
+
+Código de moneda local: PEN
+
+Código de moneda a convertir: EUR
+
 Monto a convertir: 100
-********************************************************************************************************
-MONEDA LOCAL = ZWL - MONEDA A CONVERTIR = PEN - VALOR DE CONVERSION = 0.2793 - MONTO CONVERTIDO = 27.93
-********************************************************************************************************
-Ingrese 0 para salir o 1 para continuar: 0
-********************************************************************************************************
-PROGRAMA FINALIZADO
-********************************************************************************************************
+
+MONEDA LOCAL = PEN - MONEDA A CONVERTIR = EUR - VALOR REAL = 100.0 - VALOR DE CONVERSION = 0.249 - MONTO CONVERTIDO = 24.9
+
+Ingrese 0 para salir, 1 para continuar o 2 para mostrar su historial de conversiones: 2
+
+MONEDA LOCAL = PEN - MONEDA A CONVERTIR = EUR - VALOR REAL = 100.0 - VALOR DE CONVERSION = 0.249 - MONTO CONVERTIDO = 24.9
+MONEDA LOCAL = EUR - MONEDA A CONVERTIR = PEN - VALOR REAL = 100.0 - VALOR DE CONVERSION = 4.0166 - MONTO CONVERTIDO = 401.66
+
+## Se genera archivo con log de fecha y conversiones.
